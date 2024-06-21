@@ -21,3 +21,16 @@ Learning sequence:
 - [ ] Week 1 (2 Lec's videos, Ch1.1/1.2, Lab00, Hw01)
   - Completion Date:
   - Unresolved Parts: None
+
+## Contents
+
+### Notes
+
+#### Textbook
+
+- [Ch1.1: Getting Started](./notes/textbook/ch1.1.md)
+- [Ch1.2: Elements of Programming](./notes/textbook/ch1.2.md)
+
+#### Lab
+
+- [Lab00: Getting Started](./notes/lab/lab00.md)
